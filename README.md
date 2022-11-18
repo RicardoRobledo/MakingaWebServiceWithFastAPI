@@ -13,7 +13,7 @@ This is an API made up with FastAPI
 - [FastAPI](https://fastapi.tiangolo.com/) - Framework to make apis up
 - [PyJWT](https://pyjwt.readthedocs.io/en/stable/) - Library to make tokens up
 - [peewee](https://docs.peewee-orm.com/en/latest/) - An ORM for Python
-- [mysqlcient](https://docs.peewee-orm.com/en/latest/) - Python's connector for mysql
+- [mysqlclient](https://docs.peewee-orm.com/en/latest/) - Python's connector for mysql
 - [requests](https://requests.readthedocs.io/en/latest/) - Python's library to do requests
 
 
